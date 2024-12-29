@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Resturant">
+</Property><Property Name="Solution File" Value="E:\Hami\C#\C#106\Resturant\Resturant.sln">
+</Property><Property Name="User Options File" Value="E:\Hami\C#\C#106\Resturant\Resturant.suo">
+</Property><Property Name="Date" Value="الجمعة, جوان 05, 2015">
+</Property><Property Name="Time" Value="19:42 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Resturant.sln" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Resturant.suo" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant.suo">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Resturant.csproj" Description="Project file successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Resturant.csproj">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Form1.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Form1.Designer.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Program.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Program.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Properties\Settings.settings" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Form1.resx" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Properties\Resources.resx" Description="File successfully backed up as E:\Hami\C#\C#106\Resturant\Backup\Resturant\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Resturant.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Resturant" Source="Resturant\Resturant.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Resturant.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Resturant.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Resturant" Source="Resturant\Resturant.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

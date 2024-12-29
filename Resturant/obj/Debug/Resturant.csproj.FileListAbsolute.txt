@@ -1,0 +1,52 @@
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Documents and Settings\Hamed\My Documents\Visual Studio 2008\Projects\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Hamed\Desktop\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Hamed\Desktop\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Hamed\Desktop\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Hamed\Desktop\c#\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+E:\Hami\C#\C#106\Resturant\Resturant\obj\Debug\Resturant.exe
+E:\Hami\C#\C#106\Resturant\Resturant\obj\Debug\Resturant.pdb
+E:\Hami\C#\C#106\Resturant\Resturant\bin\Debug\Resturant.exe
+E:\Hami\C#\C#106\Resturant\Resturant\bin\Debug\Resturant.pdb
+E:\Hami\C#\C#106\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+E:\Hami\C#\C#106\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+E:\Hami\C#\C#106\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.exe
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.pdb
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\bin\Debug\Resturant.exe
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\bin\Debug\Resturant.pdb
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\bin\Debug\Resturan.accdb
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.AdminForm.resources
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.Login.resources
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Aria\Downloads\Eitaa Desktop\رستوران با سی شارپ\Resturant\Resturant\obj\Debug\Resturant.Factor.resources

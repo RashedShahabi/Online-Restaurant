@@ -1,0 +1,3 @@
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Backup\Resturant\obj\Debug\safeprojectname.Form1.resources
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Backup\Resturant\obj\Debug\$safeprojectname$.Properties.Resources.resources
+D:\دانشگاه\نمونه کار ها\برنامه نویسی\سی شارپ\رستوران\2\اصلی\Resturanwww.hamiproje.comt_\Resturant\Backup\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
